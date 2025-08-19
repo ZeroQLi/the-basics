@@ -8,46 +8,46 @@ transition: none
 class: text-center
 addons:
     - slidev-addon-cpp-runner
-image: slides/1.png
+image: /slides/1.png
 ---
 
 ---
-image: slides/3.png
+image: /slides/3.png
 ---
 
 ---
-image: slides/4.png
+image: /slides/4.png
 ---
 
 ---
-image: slides/5.png
+image: /slides/5.png
 ---
 
 ---
-image: slides/6.png
+image: /slides/6.png
 ---
 
 ---
-image: slides/7.png
+image: /slides/7.png
 ---
 
 ---
-image: slides/8.png
+image: /slides/8.png
 ---
 
 ---
-image: slides/9.png
+image: /slides/9.png
 ---
 
 ---
-image: slides/10.png
+image: /slides/10.png
 ---
 
 ---
-image: slides/11.png
+image: /slides/11.png
 ---
 ---
-image: slides/bg.png
+image: /slides/bg.png
 ---
 # **Task 1 - FizzBuzz**
 Define a function **fizzBuzz** that takes in a number N.
