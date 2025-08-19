@@ -78,4 +78,12 @@ image: /slides/13.png
 image: /slides/14.png
 ---
 
+---
+image: /slides/bg.png
+---
+# Bonus task - [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)
+##### Sign up to the platform, solve the given problem.
+
+<iframe src="https://cpp.sh/" width="100%" height="100%"></iframe>
+
 
