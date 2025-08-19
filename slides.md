@@ -12,6 +12,10 @@ image: /slides/1.png
 ---
 
 ---
+image: /slides/2.png
+---
+
+---
 image: /slides/3.png
 ---
 
@@ -40,27 +44,38 @@ image: /slides/9.png
 ---
 
 ---
+image: /slides/bg.png
+---
+# **Task 1 - [FizzBuzz](https://codeforces.com/problemset/gymProblem/102697/005)**
+*Take in a number from 1 through 1000, print Fizz if the number is divisible by 3, print Buzz if the number is divisible by 5, or FizzBuzz if the number is divisible by both. If none of these conditions are true, print nothing*
+
+<iframe src="https://cpp.sh/" width="100%" height="100%"></iframe>
+
+---
 image: /slides/10.png
 ---
 
 ---
 image: /slides/11.png
 ---
+
+---
+image: /slides/12.png
+---
+
 ---
 image: /slides/bg.png
 ---
-# **Task 1 - FizzBuzz**
-Define a function **fizzBuzz** that takes in a number N.
-print *Fizz* if the number is divisible by 3, *Buzz* if the number is divisible by 5, or *FizzBuzz* if the number is divisible by both. If none of these conditions are true, do not print anything
+# **Task 2 - [Welcome to atcoder](https://atcoder.jp/contests/practice)**
+##### Sign up to the platform, start the contest and solve the first problem.
 
-*Don't know C or C++?, try it on the original platform [here](https://google.com)*
-```cpp {monaco-run}{height: 'auto', autorun:false}
-#include <bits/stdc++.h>
-// input: an integer N where 1 <= N <= 1000
-// output: "Fizz", "Buzz", "FizzBuzz", or N
+<iframe src="https://cpp.sh/" width="100%" height="100%"></iframe>
+---
+image: /slides/13.png
+---
 
-int main() {
-	printf()
-}
-```
+---
+image: /slides/14.png
+---
+
 
